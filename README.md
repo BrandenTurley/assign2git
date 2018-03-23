@@ -1,6 +1,6 @@
 # assign2git
 Branden Turley
 
-"first change"
+" first change "
 
-"testbranch change"
+" testbranch change "
